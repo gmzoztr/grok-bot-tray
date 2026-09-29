@@ -1,0 +1,15 @@
+# Build artifacts
+bin/obj/
+*.obj
+*.pdb
+*.tmp*
+.tmp*
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

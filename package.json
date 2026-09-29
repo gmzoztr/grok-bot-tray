@@ -1,0 +1,24 @@
+{
+  "name": "grok-bot-tray",
+  "version": "1.0.0",
+  "description": "System Tray (Minimize to Tray on Close) patch & companion for Grok Desktop (xAI)",
+  "type": "commonjs",
+  "main": "patcher/patch.cjs",
+  "scripts": {
+    "patch": "node patcher/patch.cjs"
+  },
+  "keywords": [
+    "grok",
+    "grok-bot",
+    "xai",
+    "system-tray",
+    "close-to-tray",
+    "minimize-to-tray",
+    "electron"
+  ],
+  "author": "gmzoztr",
+  "license": "MIT",
+  "dependencies": {
+    "@electron/asar": "^4.3.1"
+  }
+}
