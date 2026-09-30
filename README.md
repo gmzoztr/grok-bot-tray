@@ -126,6 +126,17 @@ Yamayı kaldırmak ve Grok Bot'u tamamen ilk günkü orijinal haline döndürmek
 
 ---
 
+### 📝 Changelog / Güncelleme Geçmişi
+* **v1.0.1 (30.09.2026):**
+  - Resmi Grok Bot 30 Eylül güncellemesi ile test edildi ve tam uyumluluk doğrulandı.
+  - Dinamik değişken yakalama algoritması yeni minified yapılara karşı güçlendirildi.
+  - Windows dosya kilitlerine karşı otomatik yeniden deneme (retry) mekanizması iyileştirildi.
+* **v1.0.0 (29.09.2026):**
+  - İlk açık kaynak sürüm yayınlandı.
+
+---
+
 ### 📄 License
 This project is open-source under the [MIT License](LICENSE).  
 *Disclaimer: This is an unofficial, community-made enhancement tool. Grok and xAI are trademarks of their respective owners.*
+
