@@ -1,6 +1,6 @@
 {
   "name": "grok-bot-tray",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "System Tray (Minimize to Tray on Close) patch & companion for Grok Desktop (xAI)",
   "type": "commonjs",
   "main": "patcher/patch.cjs",
